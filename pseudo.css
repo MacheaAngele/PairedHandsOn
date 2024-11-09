@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    background-image: url('plaid.jpeg');}
+
+a{font-family:Georgia; font-size:20px;font-weight:bold;color:red; line-height:22px;}
+a:link{color:red;}
+a:visited{color:black;}
+a:hover{color:pink;}
+a:active{color:blue;}
